@@ -1,3 +1,6 @@
+# Built By thenxtgenboy
+# Put Server/Database/Collection Credentials At Line - 687,688,689
+
 from requests import get
 from os import path
 from PyQt5 import QtWidgets, QtGui, QtCore
